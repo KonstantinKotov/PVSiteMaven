@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header{
+	margin: auto;
+	align-content: center;
+	text-align: center;
+	font-size: 24px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+
+#content{
+	width: 250px;
+	align-self: center;
+	text-align: center;
+	margin: auto;	
+
+}
